@@ -4,3 +4,18 @@ A: Just tells git this directory will be a git repo.
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: Different in a sense it's not physical, but a logical part of git. It allows you to pick what files you want to commit.
 
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: I can put only the files connected with this change in the staging area, thus commiting only them.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: I can keep different versions of my project easily accessible.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: By giving me visual perspective of the GIT tree.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: Another commit that has parent connection to both merged branches.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: Git saves us a lot of time by doing automatic merging for us.
+

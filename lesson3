@@ -1,1 +1,6 @@
 Q: When would you want to use a remote repository rather than keeping all your work local?
+A: All the time, as saving everything on the cloud is much safer than just keeping 1 local copy of it.
+
+Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+A: Because sometimes I might not want to pull the latest code, for example when I know it's broken in the remote.
+
