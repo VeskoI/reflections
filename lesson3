@@ -7,3 +7,6 @@ A: Because sometimes I might not want to pull the latest code, for example when 
 Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A: Forks and clones operate on branches. Clones just copies the repository (either locally or remote), whereas fork is a nice feature by GitHub that does the same as clone, but keeping the reference to the original repo.
 
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+A: You can check/work with it without having Internet connection. More importantly you'll be able to use (after merge) the latest changes in your local changes.
+
